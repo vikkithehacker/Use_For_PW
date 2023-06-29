@@ -1,0 +1,8 @@
+How can you build a CICD pipeline with argocd, Jenkins and k8s. 
+how you can use mimir. 
+Basic understanding of linkerd, how to deploy and best practices. 
+
+How Prometheus and grafana ecosystem work.
+Running operators in k8s like strimzi, redis operators etc.
+
+I am assuming you have good grasp of basic Linux and networking else i can give some topics around that.
