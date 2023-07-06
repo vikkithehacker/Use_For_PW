@@ -1,0 +1,6 @@
+1.)  Helm - ArgoCD- > Create, Update.(deploy argoCD using Helm)
+2.) Prometheus  -Grafana, — Alert  Manager & Matrix , using EC2 instance  node exporter.(Setup PR/GR using EC2)
+3.) Helm  - >>>deployment , Secrets , ConfigMap, >>>equal to helm values. (Create a helm chart from scratch) 
+
+
+
